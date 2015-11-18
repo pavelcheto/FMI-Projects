@@ -1,0 +1,8 @@
+a s d 
+<toupper>Well this is probably not working <tolower> BUT ATLEAST 
+
+Its <nl> worth <tb> the try. <hex>12345</hex> GOOD </tolower> <asd> </toupper> regular Text <oct>12345</oct> <pre>123.456789</pre> <toupper> asd </tolower> </toupper> regular text again...
+
+
+ff
+<tb>sss,nl,,,,.$$$$<nl><tb>done
